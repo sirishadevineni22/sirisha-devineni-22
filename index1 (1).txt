@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<style>
+    div#intro{
+        background-color: rgb(255, 0, 0);
+        text-align: center;
+    }
+</style>
+<html>
+    <head><title>My Portfolio</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+    <body>
+        <div id="intro">
+            <h2>Hello there,</h2>
+        <h1>I am <strong>Devineni Sirisha</strong></h1>
+        <h3>Welcome to  my Intern Project</h3>
+        </div>
+        <div>
+            <h3>
+                To know about project
+
+            </h3>
+            <a href="/portfolio/project.html"> Click here to know about my project</a>
+        </div>
+        
+    </body>
+</html>
